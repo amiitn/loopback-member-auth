@@ -1,0 +1,9 @@
+{
+  "mongoDs": {
+    "port": 27017,
+    "url": "mongodb://devUser:dev%40123@dev-cluster-shard-00-00-ahgvl.mongodb.net:27017,dev-cluster-shard-00-01-ahgvl.mongodb.net:27017,dev-cluster-shard-00-02-ahgvl.mongodb.net:27017/member?ssl=true&replicaSet=dev-cluster-shard-0&authSource=admin&retryWrites=true&w=majority",
+    "database": "member",
+    "name": "mongoDs",
+    "connector": "mongodb"
+  }
+}
